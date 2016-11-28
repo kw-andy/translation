@@ -2,6 +2,8 @@
 
 I used to be very depressed when I was young. Because I was lucky enough to be supported and encouraged at critical times in my life by three different compassionate teachers who cared, and who believed in me, I managed to survive.
 
+** J'étais pendant ma jeunesse , dépressif. Grâce à 3 différents professeurs qui ont crus en moi et m'ont aidés à différents moments de ma vie , j'ai réussi à m'en sortir.
+
 In 2006, I went to my first Chaos Communications Congress, an annual hacker conference in Germany. 
 The Chaos Computer Club (CCC), that puts on these events, has an ethos that acknowledges that the world is full of chaos, and rather than fight the chaos, they say: “let’s embrace the chaos! 
 And let’s use it to our advantage.” At this event I found a fantastic mix of organizational skills and anarchism that works. At the next CCC event, in the summer of 2007, I attended a talk about how to start your own hackerspace. 
