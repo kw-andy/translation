@@ -2,10 +2,15 @@
 
 I used to be very depressed when I was young. Because I was lucky enough to be supported and encouraged at critical times in my life by three different compassionate teachers who cared, and who believed in me, I managed to survive.
 
-**J'étais pendant ma jeunesse , dépressif. Grâce à 3 différents professeurs qui ont crus en moi et m'ont aidés à différents moments de ma vie , j'ai réussi à m'en sortir. **
+**J'étais dépressif , durant ma jeunessse. Grâce à 3 différents professeurs qui m'ont aidés à différents périodes de ma vie et surtout qui ont crus en moi, j'ai réussi à sortir de ma dépression. **
 
 In 2006, I went to my first Chaos Communications Congress, an annual hacker conference in Germany. 
 The Chaos Computer Club (CCC), that puts on these events, has an ethos that acknowledges that the world is full of chaos, and rather than fight the chaos, they say: “let’s embrace the chaos! 
+
+** Je suis allé à mon premier Chaos Communications Congress en 2006 (le CCC est ).
+J'ai adoré la philosophie du club , qui pronait la tolérance des vicissitudes inhérentes à la vie et pronait de faire partie de ce chaos et de l'utiliser.
+J'ai trouvé dans ces conférences , un mélange extraordinaire d'organisation et d'anarchie , une anarchie fonctionnelle. Puis en 2007, lors de ma seconde conférence , j'ai participé à une conférence qui nous enseignait comment monter un hackerspace. Mon ami Jake (ndlr : Jake Appelbaum) étions tellement enthousiasmés  
+**
 And let’s use it to our advantage.” At this event I found a fantastic mix of organizational skills and anarchism that works. At the next CCC event, in the summer of 2007, I attended a talk about how to start your own hackerspace. 
 Me and my friend Jake were was so inspired by this talk that we decided to start a hackerspace when we got back home to San Francisco, where we live. This is how Noisebridge hackerspaces began.
 
