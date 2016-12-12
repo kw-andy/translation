@@ -72,7 +72,7 @@ And, once or twice a year we have fund-raising parties that are way fun!
 
 Noisebridge only accepts donations with no strings attached. For instance, part of our incredibly fast internet is donated by a local internet service provider, saving us hundreds of dollars a month.
 
-__Quel est votre but dans la vie? Qu'est-ce qui vous motive à aller de l'avant? Quel message souhaiteriez vous passer et que les gens se souviennent, avant que vous mourriez ?__
+* __Quel est votre but dans la vie? Qu'est-ce qui vous motive à aller de l'avant? Quel message souhaiteriez vous passer et que les gens se souviennent, avant que vous mourriez ?__
 
 __Nous vivons sur une belle planète , ce qui est attristant est qu'il y'a beaucoup d'habitants qui ont le sentiment que leurs vies ne valent pas la peine d'être vécu. Nous passons tant de temps à faire des choses que nous haïssons. Nous avons besoin d'argent pour manger , pour vivre. Mon souhait est qu'il y'ait plus de gens qui arrivent à couvrir leurs besoins et qui trouvent un réconfort , un sens dans ce qu'ils font au quotidien.__
 
