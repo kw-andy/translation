@@ -1,10 +1,10 @@
 ** 3 expériences - initiations qui vous ont menés là, où vous en êtes 
 
-** J'étais dépressif , durant ma jeunessse. Grâce à 3 professeurs qui ont crus en moi et qui m'ont aidés à différents périodes de ma vie et, j'ai réussi à sortir de ma dépression.
+__J'étais dépressif , durant ma jeunessse. Grâce à 3 professeurs qui ont crus en moi et qui m'ont aidés à différents périodes de ma vie et, j'ai réussi à sortir de ma dépression.__
 
-** Je suis allé à mon premier Chaos Communications Congress en 2006 (le CCC est ).
+__Je suis allé à mon premier Chaos Communications Congress en 2006 (le CCC est ).
 J'ai adoré la philosophie du club , qui pronait la tolérance des vicissitudes inhérentes à la vie et pronait de faire partie de ce chaos et de l'utiliser plutôt que de lutter contre.
-J'ai trouvé dans ces conférences , un mélange extraordinaire d'organisation et d'anarchie , une anarchie fonctionnelle. En 2007, lors de ma seconde conférence , j'ai participé à une conférence qui enseignait aux participants comment monter un hackerspace. Mon ami Jake (ndlr : Jake Appelbaum) étions tellement enthousiasmés que nous avons decidés, d'en monter un à SF, là où nous habitons. C'est ainsi que Noisebridge a vu le jou
+J'ai trouvé dans ces conférences , un mélange extraordinaire d'organisation et d'anarchie , une anarchie fonctionnelle. En 2007, lors de ma seconde conférence , j'ai participé à une conférence qui enseignait aux participants comment monter un hackerspace. Mon ami Jake (ndlr : Jake Appelbaum) étions tellement enthousiasmés que nous avons decidés, d'en monter un à SF, là où nous habitons. C'est ainsi que Noisebridge a vu le jour__
 
 ** J'ai commencé à donner des ateliers sur la soudure, sur comment faire des gadgets électroniques et tout ce que l'on doit savoir pour commencer sur l'Arduino. Ces ateliers sont pour ceux qui n'ont pas de connaissances sur l'électronique et ceux qui ne sont pas makers. J'adore faire ces ateliers et je le fais peu importe où je me trouve dans le monde. En 2011 après le suicide d'un ami, j'ai organisé au CCC une discussion les geeks et la dépression avec des gens qui avaient vécus une dépression. Cela a aidé beaucoup de monde que depuis , je parle plus de mon ancienne dépresson et j'encourage les gens que je rencontre à être plus ouvert avec leurs dépressions
 
