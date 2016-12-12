@@ -24,7 +24,7 @@ I love giving these workshops so much that I’m still giving them wherever a tr
 
 
 
-__Pourquoi avoir démarré un hackerspace ?__
+* __Pourquoi avoir démarré un hackerspace ?__
 
 __J'ai commencé Noisebridge pour que les curieux qui souhaitaient apprendre , explorer , aient un endroit pour le faire , pour faire que les personnes qui viennent , trouvent un sens dans leurs besoin de créer.__
 
@@ -47,7 +47,7 @@ Every hackerspace is unique, with its own unique community, ways of organizing, 
 But Noisebridge is open and available to everyone, and not only to members, as long as they follow our one rule, and as long as they both benefits from and contribute to the Noisebridge community. 
 Contributions can be financial, but other contributions are more important, including, but very much not limited to: sharing cool projects, learning, exploring, giving classes or workshops, showing people how to use tools, tidying up, giving tours of the space, sharing our culture with new people, and, of course, being excellent. Everyone is encouraged to share what they doing with others in the space, and in the community. There are lots of ways to contribute. And, since it feels really good, everyone does.
 
-__Quel est votre plus important projet aujourd'hui ?__
+* __Quel est votre plus important projet aujourd'hui ?__
 
 __Parcourir le monde, donner des conférences et animer des ateliers qui attirent de plus en plus de personnes vers les hackerspaces. Encourager les participants à monter leurs propres hackerspaces. J'adore ce que je fais !__
 
@@ -55,7 +55,7 @@ __Parcourir le monde, donner des conférences et animer des ateliers qui attiren
 
 Travelling the world, giving talks and workshops that attracts more people to hackerspaces, and encouraging more people to start hackerspaces. I love doing this!
 
-__Quel est le business model de Noisebridge ?__
+* __Quel est le business model de Noisebridge ?__
 
 __Notre budget annuel est de 75 000 $ US. Cela inclut la location des lieux, l'électricité , Internet , le ramassage des poubelles. Cela fait beaucoup d'argent mais notre argent est sagement utilisé. Avec notre budget, nous faisons plus que beaucoup d'organisations avec des budgets plus conséquents. Des centaines de personnes viennent chaque semaine à Noise Bridge pour nos ateliers , pour découvrir la culture des hackerspaces.__
 
