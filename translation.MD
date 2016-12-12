@@ -8,11 +8,13 @@ In 2006, I went to my first Chaos Communications Congress, an annual hacker conf
 The Chaos Computer Club (CCC), that puts on these events, has an ethos that acknowledges that the world is full of chaos, and rather than fight the chaos, they say: “let’s embrace the chaos! 
 
 ** Je suis allé à mon premier Chaos Communications Congress en 2006 (le CCC est ).
-J'ai adoré la philosophie du club , qui pronait la tolérance des vicissitudes inhérentes à la vie et pronait de faire partie de ce chaos et de l'utiliser pour soi.
-J'ai trouvé dans ces conférences , un mélange extraordinaire d'organisation et d'anarchie , une anarchie fonctionnelle. Puis en 2007, lors de ma seconde conférence , j'ai participé à une conférence qui enseignait aux participants comment monter un hackerspace. Mon ami Jake (ndlr : Jake Appelbaum) étions tellement enthousiasmés que nous avons decidés, d'en monter un à SF, là où nous habitons. C'est ainsi que Noisebridge a vu le jour ** 
+J'ai adoré la philosophie du club , qui pronait la tolérance des vicissitudes inhérentes à la vie et pronait de faire partie de ce chaos et de l'utiliser plutôt que de lutter contre.
+J'ai trouvé dans ces conférences , un mélange extraordinaire d'organisation et d'anarchie , une anarchie fonctionnelle. En 2007, lors de ma seconde conférence , j'ai participé à une conférence qui enseignait aux participants comment monter un hackerspace. Mon ami Jake (ndlr : Jake Appelbaum) étions tellement enthousiasmés que nous avons decidés, d'en monter un à SF, là où nous habitons. C'est ainsi que Noisebridge a vu le jour ** 
 
 And let’s use it to our advantage.” At this event I found a fantastic mix of organizational skills and anarchism that works. At the next CCC event, in the summer of 2007, I attended a talk about how to start your own hackerspace. 
 Me and my friend Jake were was so inspired by this talk that we decided to start a hackerspace when we got back home to San Francisco, where we live. This is how Noisebridge hackerspaces began.
+
+** J'ai commencé à donner des ateliers sur la soudure, sur comment faire des gadgets électroniques et tout ce que l'on doit savoir pour commencer sur l'Arduino. Ces ateliers sont pour ceux qui n'ont pas de connaissances sur l'électronique et ceux qui ne sont pas makers. J'adore faire ces ateliers et je le fais peu importe où je me trouve dans le monde. En 2011 au CCC **
 
 I started giving workshops at CCC events, and other events. I gave workshops to teach everyone how to solder, how to make cool things with electronics, and everything you need to know to start playing with Arduinos. 
 All of these workshops are for people who previously knew nothing about electronics or making things. 
