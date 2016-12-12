@@ -1,4 +1,4 @@
-** 3 expériences - initiations qui vous ont menés là, où vous en êtes 
+* __3 expériences - initiations qui vous ont menés là, où vous en êtes__
 
 __J'étais dépressif , durant ma jeunessse. Grâce à 3 professeurs qui ont crus en moi et qui m'ont aidés à différents périodes de ma vie et, j'ai réussi à sortir de ma dépression.__
 
