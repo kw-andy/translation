@@ -6,7 +6,7 @@ __Je suis allé à mon premier Chaos Communications Congress en 2006 (le CCC est
 J'ai adoré la philosophie du club , qui pronait la tolérance des vicissitudes inhérentes à la vie et pronait de faire partie de ce chaos et de l'utiliser plutôt que de lutter contre.
 J'ai trouvé dans ces conférences , un mélange extraordinaire d'organisation et d'anarchie , une anarchie fonctionnelle. En 2007, lors de ma seconde conférence , j'ai participé à une conférence qui enseignait aux participants comment monter un hackerspace. Mon ami Jake (ndlr : Jake Appelbaum) étions tellement enthousiasmés que nous avons decidés, d'en monter un à SF, là où nous habitons. C'est ainsi que Noisebridge a vu le jour__
 
-__J'ai commencé à donner des ateliers sur la soudure, sur comment faire des gadgets électroniques et tout ce que l'on doit savoir pour commencer sur l'Arduino. Ces ateliers sont pour ceux qui n'ont pas de connaissances sur l'électronique et ceux qui ne sont pas makers. J'adore faire ces ateliers et je le fais peu importe où je me trouve dans le monde. En 2011 après le suicide d'un ami, j'ai organisé au CCC une discussion les geeks et la dépression avec des gens qui avaient vécus une dépression. Cela a aidé beaucoup de monde que depuis , je parle plus de mon ancienne dépresson et j'encourage les gens que je rencontre à être plus ouvert avec leurs dépressions__
+__J'ai commencé à donner des ateliers sur la soudure, sur comment faire des gadgets électroniques et tout ce que l'on doit savoir pour commencer sur l'Arduino. Ces ateliers sont pour ceux qui n'ont pas de connaissances sur l'électronique et ceux qui ne sont pas makers. J'adore faire ces ateliers et je le fais peu importe où je me trouve dans le monde. En 2011 après le suicide d'un ami, j'ai organisé au CCC une discussion les geeks et la dépression avec des gens qui avaient vécus une dépression. Cela a aidé beaucoup de monde. Depuis cette conférence , je suis plus ouvert sur mon ancienne dépresson et j'encourage les gens que je rencontre à parler plus des dépressions qu'ils vivent ou qu'ils ont vécu__
 
 * 3 outstanding experiences/steps that brought you where you are today?
 
@@ -28,12 +28,12 @@ I love giving these workshops so much that I’m still giving them wherever a tr
 
 __J'ai commencé Noisebridge pour que les curieux qui souhaitaient apprendre , explorer , aient un endroit pour le faire , pour faire que les personnes qui viennent , trouvent un sens dans leurs besoin de créer.__
 
-__Nous avons besoin d'être entourés et nous avons besoin de nous exprimer via nos créations. Les hackerspaces / fablabs sont des endroits qui permettent de combler nos besoins humains.__
+__Nous avons besoin d'être entourés comme nous avons besoin de nous exprimer via nos créations. Les hackerspaces / fablabs sont des endroits qui permettent de combler nos besoins humains.__
 
 __Chaque personne peut faire individuellement beaucoup mais Ensemble , en réunissant notre ingéniosité , nos talents , nos compétences nos outils comme nos crayons ou nos soudeuses, nous pouvons faire plus et mieux.__ 
 
-__Chaque hackerspace est unique , avec sa communauté , sa façon de se structurer et son business modèle. Chez Noisebridge, nous fonctionnons comme une holocratie , c'est à dire que nous n'avons pas des chefs. Nous prenons nos décisions par consensus. Notre unique règle est de donner le meilleur de soi-même pour l'autre (ndlr : le projet d'un autre membre ou dans l'aide fournie). Noisebridge est ouvert à tout le monde , avec comme seule contrainte notre règle et bien sûr que les personnes qui viennent, retirent un bienfait de la communauté et qu'ils aident en retour les autres membres de la communauté.
-Les aides peuvent être monétaires mais surtout partager ses projets, apprendre, explorer, donnes des cours , faire des ateliers , nettoyer les lieux , montrer aux nouveaux comment utiliser l'outillage ... et toujours donner le meilleur de soi. Il y'a beaucoup de façon de participer et comme chacun.e y trouve son compte , tout le monde le fait volontiers.__
+__Chaque hackerspace est unique , avec sa communauté , sa façon de se structurer et son business modèle. Chez Noisebridge, nous fonctionnons comme une holocratie , c'est à dire que nous n'avons pas de chefs. Nous prenons nos décisions par consensus. Notre unique règle est de donner le meilleur de soi-même pour l'autre (ndlr : le projet d'un autre membre ou dans l'aide fournie). Noisebridge est ouvert à tout le monde , avec comme seule contrainte notre règle et bien sûr que les personnes qui viennent, retirent un bienfait de la communauté et qu'ils aident en retour les autres membres de la communauté.
+Les aides peuvent être monétaires mais surtout partager ses projets, apprendre, explorer, donnes des cours , faire des ateliers , nettoyer les lieux , montrer aux nouveaux comment utiliser l'outillage ... et toujours donner le meilleur de soi. Il y'a beaucoup de façon de participer et comme chacun.e y trouve son compte , tout le monde le fait gracieusement.__
 
 * Why starting a hackerspace?
 
@@ -59,9 +59,9 @@ Travelling the world, giving talks and workshops that attracts more people to ha
 
 __Notre budget annuel est de 75 000 $ US. Cela inclut la location des lieux, l'électricité , Internet , le ramassage des poubelles. Cela fait beaucoup d'argent mais notre argent est sagement utilisé. Avec notre budget, nous faisons plus que beaucoup d'organisations avec des budgets plus conséquents. Des centaines de personnes viennent chaque semaine à Noise Bridge pour nos ateliers , pour découvrir la culture des hackerspaces.__
 
-__Noisebridge n'a pas de salariés car nous sommes une association composée de bénévole , de ce fait , nous avons peu de coûts et pouvons nous permettre beaucoup d'initiatives. Chaque jour , nous organisons des ateliers et des formations. 1/3 de nos revenus vient de nos adhésions et le reste vient de dons individuels , un dollar dans notre cagnotte , et une à deux fois par an, nous faisons une fête de levée de fond, fêtes qui sont très agréables.__  
+__Noisebridge n'a pas de salariés car nous sommes une association composée de bénévoles , de ce fait , nous avons peu de coûts et pouvons nous permettre beaucoup d'initiatives. Chaque jour , nous organisons des ateliers et des formations. 1/3 de nos revenus vient de nos adhésions et le reste vient de dons individuels , un dollar dans notre cagnotte , et une à deux fois par an, nous faisons une fête de levée de fond, fêtes qui sont très agréables.__  
 
-__Noisebridge n'accepte qu'une donation que si elle est sans contreparties. Notre internet nous est offert par un fournisseur d'accès local, ce qui nous économise une bonne centaine de dollars , chaque mois.__
+__Noisebridge n'accepte qu'une donation que si elle est sans contrepartie. Notre internet nous est offert par un fournisseur d'accès local, ce qui nous économise une bonne centaine de dollars , chaque mois.__
 
 * What is Noisebridge’s business model?
 
