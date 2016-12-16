@@ -1,6 +1,6 @@
 * __3 expériences - initiations qui vous ont menés là, où vous en êtes__
 
-__J'étais dépressif , durant ma jeunessse. Grâce à 3 professeurs qui ont crus en moi et qui m'ont aidés à différents périodes de ma vie et, j'ai réussi à sortir de ma dépression.__
+__J'étais dépressif , durant ma jeunessse. Grâce à 3 professeurs qui ont crus en moi et qui m'ont aidés à différents périodes de ma vie , j'ai réussi à sortir de ma dépression.__
 
 __Je suis allé à mon premier Chaos Communications Congress en 2006 (le CCC est ).
 J'ai adoré la philosophie du club , qui pronait la tolérance des vicissitudes inhérentes à la vie et pronait de faire partie de ce chaos et de l'utiliser plutôt que de lutter contre.
