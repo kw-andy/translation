@@ -43,3 +43,15 @@ __J'ai réalise que je peux aider ces gens à trouver leur voie, à se regrouper
 
 __Aujourd'hui, il y'a 2000 hackerspaces dans le monde. Nous en avons besoin de plus, nous avons besoin de communautés dans nos vies, nous pouvons faire beacoup chacun(e) mais nous pouvons faire plus Ensemble__
 
+How do you define depression?
+
+It's a vicious cycle where depressing thoughts, where one sees and extrapolates from a horrible now into a continuing horrible future. Which create more depressing thoughts which perpetuates a horrible now which create horrible brain chemistry which perpetuates a more horrible now.  (a simplifier haha)
+Symptoms are very variable according to people. People want their pain to stop. That is universal. We have so many distractions in our lives that so many people who are depressed don’t even know it, no matter how much pain they are in... I can work too much, I can just turn on this fucking screen and Watch video games and download porn, or fall in love and before it gets too far, I can go to another person, I can make more money, have more power over you because you are easy to manipulate, I can deal drugs illegally, I can drink too much beer.
+
+They are all sorts of behaviors and substances that are socially sanctioned and many of them are even considered positive. And we can use everything as a distraction from ourselves. but if over all its distracting me from myself, from something truly more important, then is problematic. 
+We don’t have opportunities for self-reflection, to do all the important work each one of us have to do no matter where their lives are. If we are depressed they are many things we need to deal with. If we haven’t, it means its difficult.
+
+Or we can take pills, and then take pills again, again, and again. And then we will be dead. And we have taken away the opportunities that we have to do something more worthwhile and remove the pain. That’s choice. That is not the one I have done. Its up to each of them to make those choices. I think its worth the work. 
+In my life now, I am so Grateful to be healing everything. 
+*It's not about ups and downs. It is not about feeling great or horrible. It feels awesome just to be feeling all of it. It's about being, it's about living. Or, you can take a pill.
+
