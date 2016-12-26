@@ -47,7 +47,11 @@ __Comment définirais-tu la dépression ?__
 
 __La dépression est un future horrible, sans fin où les pensées noires pulullent. Ces pensées générent des pensées encore et toujours plus sombres, qui pérpétuent un présent où le soleil est absent (une simplification haha dixit l'auteur). Les symptômes varient selon la personne. Un trait commun est que ceux qui sont dépressifs, veulent que la douleur s'arrête. Tant de gens ne savent pas qu'ils sont dépressifs car les distractions foisonnent, un jeu vidéo par-ci, un film pornographique par-là, on tombe amoureux, on veut devenir plus riche, on manipule l'autre , on prend de la drogue , on boit quelques bières qui deviennent quelques bières de trop.__  
 
-__ Certaines des choses mentionnées ci-dessus, reste acceptable tant que cela ne devient pas une excuse de trop, l'excuse qui devient un mensonge à soi-même, un frein à qui nous sommes et l'on souhaite dans notre vie.  __
+__ Certaines des choses mentionnées ci-dessus, reste acceptable tant que cela ne devient pas une excuse de trop, l'excuse qui devient un mensonge à soi-même, un frein à qui nous sommes et l'on souhaite dans notre vie.__
+
+__Nous n'avons pas beaucoup d'occasions pour réflechir sur soi, sur sa vie. Etre dépressif est une occasion de pouvoir réflechir sur soi, de faire le travail d'introspection sur nos vies , peu importe le tournant qu'a pris nos vies, ce que l'on souhaite faire de nos vies.__
+
+__L'autre option est de prendre une pilule, et encore une autre. Et un jour, on meurt. Et les occasions de faire quelque chose d'intére
 
 How do you define depression?
 
