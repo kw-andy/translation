@@ -45,9 +45,9 @@ __Aujourd'hui, il y'a 2000 hackerspaces dans le monde. Nous en avons besoin de p
 
 __Comment définirais-tu la dépression ?__
 
-__La dépression est un future horrible, sans fin où les pensées noires pulullent. Ces pensées générent des pensées encore et toujours plus sombres, qui pérpétuent un présent où le soleil est absent (une simplification haha dixit l'auteur). Les symptômes varient selon la personne. Un trait commun est que ceux qui sont dépressifs, veulent que la douleur s'arrête. Tant de gens ne savent pas qu'ils sont dépressifs car ils se noient dans les distractions, un jeu vidéo, un film pornographique, tomber amoureux, gagner plus d'argent , manipuler l'autre , prendre de la drogue , boire trop de bière.__  
+__La dépression est un future horrible, sans fin où les pensées noires pulullent. Ces pensées générent des pensées encore et toujours plus sombres, qui pérpétuent un présent où le soleil est absent (une simplification haha dixit l'auteur). Les symptômes varient selon la personne. Un trait commun est que ceux qui sont dépressifs, veulent que la douleur s'arrête. Tant de gens ne savent pas qu'ils sont dépressifs car les distractions foisonnent, un jeu vidéo par-ci, un film pornographique par-là, on tombe amoureux, on veut devenir plus riche, on manipule l'autre , on prend de la drogue , on boit quelques bières qui deviennent quelques bières de trop.__  
 
-__ Tout cela (ndldr: certaines des choses mentionnées ci-dessus) est acceptable tant que cela ne devient pas une excuse, un mensonge à soi-même.  de ce que l'on souhaite dans notre vie .  __
+__ Certaines des choses mentionnées ci-dessus, reste acceptable tant que cela ne devient pas une excuse de trop, l'excuse qui devient un mensonge à soi-même, un frein à qui nous sommes et l'on souhaite dans notre vie.  __
 
 How do you define depression?
 
