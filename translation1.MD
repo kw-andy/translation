@@ -43,13 +43,13 @@ __J'ai réalise que je peux aider ces gens à trouver leur voie, à se regrouper
 
 __Aujourd'hui, il y'a 2000 hackerspaces dans le monde. Nous en avons besoin de plus, nous avons besoin de communautés dans nos vies, nous pouvons faire beacoup chacun(e) mais nous pouvons faire plus Ensemble__
 
+_Partie supplémentaire_
 
 __Comment définirais-tu la dépression ?__
 
-
 __La dépression est un future horrible, sans fin où les pensées noires pulullent. Ces pensées générent des pensées encore et toujours plus sombres, qui pérpétuent un présent où le soleil est absent (une simplification haha dixit l'auteur). Les symptômes varient selon la personne. Un trait commun est que ceux qui sont dépressifs, veulent que la douleur s'arrête. Tant de gens ne savent pas qu'ils sont dépressifs car les distractions foisonnent, un jeu vidéo par-ci, un film pornographique par-là, on tombe amoureux, on veut devenir plus riche, on manipule l'autre , on prend de la drogue , on boit quelques bières qui deviennent quelques bières de trop.__  
 
-__ Certaines des choses mentionnées ci-dessus, reste acceptable tant que cela ne devient pas une excuse de trop, l'excuse qui devient un mensonge à soi-même, un frein à qui nous sommes et l'on souhaite dans notre vie.__
+__Certaines des choses mentionnées ci-dessus, reste acceptable tant que cela ne devient pas une excuse de trop, l'excuse qui devient un mensonge à soi-même, un frein à qui nous sommes et l'on souhaite dans notre vie.__
 
 __Nous n'avons pas beaucoup d'occasions pour réflechir sur soi, sur sa vie. Etre dépressif est une occasion de pouvoir réflechir sur soi, de faire le travail d'introspection sur nos vies , peu importe le tournant qu'a pris nos vies, ce que l'on souhaite faire de nos vies.__
 
@@ -59,15 +59,4 @@ __Je me sens heureux à présent , heureux de pouvoir aider les autres à aller 
 
 __La vie n'est pas définie par les hauts et les bas, elle n'est pas définie non plus par le fait de sentir bien ou très mal. Le plus important est de vivre, d'être, peu importe ce que l'on ressent. L'autre possibilité est de prendre une pilulle.__
 
-How do you define depression?
-
-It's a vicious cycle where depressing thoughts, where one sees and extrapolates from a horrible now into a continuing horrible future. Which create more depressing thoughts which perpetuates a horrible now which create horrible brain chemistry which perpetuates a more horrible now.  (a simplifier haha)
-Symptoms are very variable according to people. People want their pain to stop. That is universal. We have so many distractions in our lives that so many people who are depressed don’t even know it, no matter how much pain they are in... I can work too much, I can just turn on this fucking screen and Watch video games and download porn, or fall in love and before it gets too far, I can go to another person, I can make more money, have more power over you because you are easy to manipulate, I can deal drugs illegally, I can drink too much beer.
-
-They are all sorts of behaviors and substances that are socially sanctioned and many of them are even considered positive. And we can use everything as a distraction from ourselves. but if over all its distracting me from myself, from something truly more important, then is problematic. 
-We don’t have opportunities for self-reflection, to do all the important work each one of us have to do no matter where their lives are. If we are depressed they are many things we need to deal with. If we haven’t, it means its difficult.
-
-Or we can take pills, and then take pills again, again, and again. And then we will be dead. And we have taken away the opportunities that we have to do something more worthwhile and remove the pain. That’s choice. That is not the one I have done. Its up to each of them to make those choices. I think its worth the work. 
-In my life now, I am so Grateful to be healing everything. 
-*It's not about ups and downs. It is not about feeling great or horrible. It feels awesome just to be feeling all of it. It's about being, it's about living. Or, you can take a pill.
 
