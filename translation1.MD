@@ -57,7 +57,7 @@ __L'autre possibilité est de prendre une pilule, et encore une autre. Et un jou
 
 __Je me sens heureux à présent , heureux de pouvoir aider les autres à aller mieux.__
 
-__ La vie n'est pas définie par les hauts et les bas, elle n'est pas définie non plus par le fait de sentir bien ou très mal. Le plus important est de vivre, d'être, peu importe ce que l'on ressent. L'autre possibilité est de prendre une pilulle.__
+__La vie n'est pas définie par les hauts et les bas, elle n'est pas définie non plus par le fait de sentir bien ou très mal. Le plus important est de vivre, d'être, peu importe ce que l'on ressent. L'autre possibilité est de prendre une pilulle.__
 
 How do you define depression?
 
