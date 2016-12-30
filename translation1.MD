@@ -43,7 +43,9 @@ __J'ai réalise que je peux aider ces gens à trouver leur voie, à se regrouper
 
 __Aujourd'hui, il y'a 2000 hackerspaces dans le monde. Nous en avons besoin de plus, nous avons besoin de communautés dans nos vies, nous pouvons faire beacoup chacun(e) mais nous pouvons faire plus Ensemble__
 
+
 __Comment définirais-tu la dépression ?__
+
 
 __La dépression est un future horrible, sans fin où les pensées noires pulullent. Ces pensées générent des pensées encore et toujours plus sombres, qui pérpétuent un présent où le soleil est absent (une simplification haha dixit l'auteur). Les symptômes varient selon la personne. Un trait commun est que ceux qui sont dépressifs, veulent que la douleur s'arrête. Tant de gens ne savent pas qu'ils sont dépressifs car les distractions foisonnent, un jeu vidéo par-ci, un film pornographique par-là, on tombe amoureux, on veut devenir plus riche, on manipule l'autre , on prend de la drogue , on boit quelques bières qui deviennent quelques bières de trop.__  
 
@@ -51,7 +53,11 @@ __ Certaines des choses mentionnées ci-dessus, reste acceptable tant que cela n
 
 __Nous n'avons pas beaucoup d'occasions pour réflechir sur soi, sur sa vie. Etre dépressif est une occasion de pouvoir réflechir sur soi, de faire le travail d'introspection sur nos vies , peu importe le tournant qu'a pris nos vies, ce que l'on souhaite faire de nos vies.__
 
-__L'autre option est de prendre une pilule, et encore une autre. Et un jour, on meurt. Et les occasions de faire quelque chose d'intére
+__L'autre possibilité est de prendre une pilule, et encore une autre. Et un jour, on meurt. Et les occasions de faire quelque chose d'intéressant et qui estompent la douleur venant de cette dépression, qui valent le coup , auront céssés d'être. C'est un choix, ce n'est pas le choix que j'aurais fait. C'est à chacun d'entre nous de faire ce choix , un choix qui vaut le coup.__
+
+__Je me sens heureux à présent , heureux de pouvoir aider les autres à aller mieux.__
+
+__ La vie n'est pas définie par les hauts et les bas, elle n'est pas définie non plus par le fait de sentir bien ou très mal. Le plus important est de vivre, d'être, peu importe ce que l'on ressent. L'autre possibilité est de prendre une pilulle.__
 
 How do you define depression?
 
