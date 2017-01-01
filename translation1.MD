@@ -53,10 +53,13 @@ __Certaines des choses mentionnées (plus haut), reste acceptable tant que cela 
 
 __Les occasions d'introspection sur soi sont rares. Etre dépressif est une occasion de pouvoir faire un bilan sur soi, de faire le travail d'introspection sur nos vies , peu importe le tournant qu'a pris nos vies. Une dépression est aussi le mment de réflechir ce que l'on souhaite faire de nos vies.__
 
-__L'autre possibilité est de prendre une pilule, et encore une autre. Et un jour, on meurt. Et les occasions de faire quelque chose d'intéressant , d'estomper la douleur venant de cette dépression, auront céssés d'être. C'est un choix, ce n'est pas le choix que j'aurais fait. C'est à chacun d'entre nous de faire ce choix , un choix qui vaut le coup.__
+__L'autre possibilité est de prendre une pilule, et encore une autre. Et un jour, on meurt. Et les occasions de faire quelque chose d'intéressant , d'estomper la douleur venant de cette dépression, auront disparus. C'est un choix, ce n'est pas le choix que j'ai fait.__ 
+__C'est à chacun de nous de faire ce choix , un choix de vivre une vie ayant un sens.__
 
 __Je me sens heureux à présent , heureux de pouvoir aider les autres à aller mieux.__
 
-__La vie n'est pas définie par les hauts et les bas, elle n'est pas définie non plus par le fait de sentir bien ou très mal. Le plus important est de vivre, d'être, peu importe ce que l'on ressent. L'autre possibilité est de prendre une pilulle.__
+__La vie n'est pas définie par les hauts et les bas, elle n'est pas définie non plus par le fait de sentir bien ou très mal. Le plus important est de vivre, d'être, peu importe ce que l'on ressent.__ 
+
+__L'autre possibilité est de prendre une pilulle...__
 
 
