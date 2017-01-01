@@ -39,26 +39,26 @@ __Noisebridge n'accepte qu'une donation que si elle est sans contrepartie. Notre
 
 __Nous vivons sur une belle planète. Ce qui est attristant est qu'il y'a beaucoup d'habitants qui ont le sentiment que leurs vies ne valent pas la peine d'être vécues. Nous passons tant de temps à faire des choses que nous haïssons. Nous avons besoin d'argent pour manger , pour vivre. Mon souhait est qu'il y ait plus de gens qui arrivent à couvrir leurs besoins et qui trouvent un réconfort , un sens dans ce qu'ils font au quotidien.__
 
-__J'ai réalise que je peux aider ces gens à trouver leur voie, à se regrouper en hackerspace , et que dans ces hackerspaces, les gens ont la liberté d'expérimenter , d'explorer pour eux-mêmes et de faire ce qu'ils ont envie de faire.__
+__J'ai réalisé que je peux aider ces gens à trouver leur voie, à se regrouper en hackerspace , et que dans ces hackerspaces, les gens ont la liberté d'expérimenter , d'explorer pour eux-mêmes et de faire ce qu'ils ont envie de faire.__
 
-__Aujourd'hui, il y'a 2000 hackerspaces dans le monde. Nous en avons besoin de plus, nous avons besoin de communautés dans nos vies, nous pouvons faire beacoup chacun(e) mais nous pouvons faire plus Ensemble__
+__Aujourd'hui, il y a 2000 hackerspaces dans le monde. Nous en avons besoin de plus, nous avons besoin de communautés dans nos vies, nous pouvons faire beaucoup chacun(e) mais nous pouvons faire plus Ensemble__
 
 _Partie supplémentaire_
 
 __Comment définirais-tu la dépression ?__
 
-__La dépression est un futur où les pensées noires pulullent, sans fin. Ces pensées sont toujours plus sombres et pérpétuent un présent sans soleil (ndlr: une simplification haha dixit l'auteur). Les symptômes varient selon les personnes. Un trait commun est que ceux qui sont dépressifs, veulent que la douleur s'arrête. Pourtant, il y'a tant de gens qui ignorent qu'ils sont dépressifs grâce aux distractions à portée de main, un jeu vidéo par-ci, un film pornographique par-là, on tombe amoureux, on veut devenir plus riche, on manipule l'autre , on prend de la drogue , on boit quelques bières qui deviennent quelques bières de trop.__  
+__La dépression est un futur où les pensées noires pulullent, sans fin. Ces pensées sont toujours plus sombres et perpétuent un présent sans soleil (ndlr: une simplification haha dixit l'auteur). Les symptômes varient selon les personnes. Un trait commun est que ceux qui sont dépressifs, veulent que la douleur s'arrête. Pourtant, il y'a tant de gens qui ignorent qu'ils sont dépressifs grâce aux distractions à portée de main, un jeu vidéo par-ci, un film pornographique par-là, on tombe amoureux, on veut devenir plus riche, on manipule l'autre , on prend de la drogue , on boit quelques bières qui deviennent quelques bières de trop.__  
 
-__Certaines des choses mentionnées (plus haut), reste acceptable tant que cela ne devient pas une excuse supplémentaire, l'excuse devenant un mensonge, un obstacle à la réalisation de soi, un frein à qui nous sommes et ce que l'on souhaite dans notre vie.__
+__Certaines des choses mentionnées (plus haut), restent acceptables tant que cela ne devient pas une excuse supplémentaire, l'excuse devenant un mensonge, un obstacle à la réalisation de soi, un frein à qui nous sommes et ce que l'on souhaite dans notre vie.__
 
-__Les occasions d'introspection sur soi sont rares. Etre dépressif est une occasion de pouvoir faire un bilan sur soi, de faire le travail d'introspection sur nos vies , peu importe le tournant qu'a pris nos vies. Une dépression est aussi le mment de réflechir ce que l'on souhaite faire de nos vies.__
+__Les occasions d'introspection sont rares. Etre dépressif est une occasion de pouvoir faire un bilan sur soi, de faire le travail d'introspection sur nos vies , peu importe le tournant qu'ont pris nos vies. Une dépression est aussi le moment de réflechir à ce que l'on souhaite faire de nos vies.__
 
-__L'autre possibilité est de prendre une pilule, et encore une autre. Et un jour, on meurt. Et les occasions de faire quelque chose d'intéressant , d'estomper la douleur venant de cette dépression, auront disparus. C'est un choix, ce n'est pas le choix que j'ai fait.__ 
+__L'autre possibilité est de prendre une pilule, et encore une autre. Et un jour, on meurt. Et les occasions de faire quelque chose d'intéressant , d'estomper la douleur venant de cette dépression, auront disparu. C'est un choix, ce n'est pas le choix que j'ai fait.__ 
 __C'est à chacun de nous de faire ce choix , un choix de vivre une vie ayant un sens.__
 
 __Je me sens heureux à présent , heureux de pouvoir aider les autres à aller mieux.__
 
-__La vie n'est pas définie par les hauts et les bas, elle n'est pas définie non plus par le fait de sentir bien ou très mal. Le plus important est de vivre, d'être, peu importe ce que l'on ressent.__ 
+__La vie n'est pas définie par les hauts et les bas, elle n'est pas définie non plus par le fait de se sentir bien ou très mal. Le plus important est de vivre, d'être, peu importe ce que l'on ressent.__ 
 
 __L'autre possibilité est de prendre une pilulle...__
 
