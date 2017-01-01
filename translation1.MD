@@ -45,7 +45,7 @@ __Aujourd'hui, il y a 2000 hackerspaces dans le monde. Nous en avons besoin de p
 
 _Partie supplémentaire_
 
-__Comment définirais-tu la dépression ?__
+* __Comment définirais-tu la dépression ?__
 
 __La dépression est un futur où les pensées noires pulullent, sans fin. Ces pensées sont toujours plus sombres et perpétuent un présent sans soleil (ndlr: une simplification haha dixit l'auteur). Les symptômes varient selon les personnes. Un trait commun est que ceux qui sont dépressifs, veulent que la douleur s'arrête. Pourtant, il y'a tant de gens qui ignorent qu'ils sont dépressifs grâce aux distractions à portée de main, un jeu vidéo par-ci, un film pornographique par-là, on tombe amoureux, on veut devenir plus riche, on manipule l'autre , on prend de la drogue , on boit quelques bières qui deviennent quelques bières de trop.__  
 
@@ -60,6 +60,6 @@ __Je me sens heureux à présent , heureux de pouvoir aider les autres à aller 
 
 __La vie n'est pas définie par les hauts et les bas, elle n'est pas définie non plus par le fait de se sentir bien ou très mal. Le plus important est de vivre, d'être, peu importe ce que l'on ressent.__ 
 
-__L'autre possibilité est de prendre une pilulle...__
+__L'autre possibilité est de prendre une pilule...__
 
 
